@@ -13,7 +13,6 @@ h1,h2{
 }
 li{
 	list-style-type: none;
-	text-decoration-line: none;
 }
 .player_one,.player_two{
 	background-color: rgb(255, 255, 255);
@@ -28,5 +27,8 @@ li{
 .abc{
 	height:400px;
 	background-color:white;
+}
+a{text-decoration-line: none;
+	
 }
 
